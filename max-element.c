@@ -1,3 +1,4 @@
+// Nzrirga Isaac Nickson S23B23/046
 /* PSEUDO CODE
 START
     Declare array num[] = {10, 5, 20, 30, 20}
