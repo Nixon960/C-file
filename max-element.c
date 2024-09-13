@@ -1,3 +1,22 @@
+/* PSEUDO CODE
+START
+    Declare array num[] = {10, 5, 20, 30, 20}
+    Calculate length = size of num[] / size of num[0]
+
+    Set max = num[0]
+
+    FOR i = 1 to (length - 1)
+        IF num[i] > max THEN
+            Set max = num[i]
+        END IF
+    END FOR
+
+    Print "The maximum element is: " + max
+
+END */
+
+
+// CODE
 #include <stdio.h>
 
 int main() {
